@@ -33,5 +33,3 @@ domain-hawk-pro/
 ├─ LICENSE
 ├─ README.md
 └─ ROADMAP.md
-
-        
